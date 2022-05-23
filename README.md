@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhnnynh&count_bg=%230675FB&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### - 👀 I'm ...
-- majoring in **Computer Science & engineering** at Chung-Ang University (2021 ~ )
+- majoring in **Computer Science & Engineering** at Chung-Ang University (2021 ~ )
 
 ### - 🌱 I’m currently studying ...
 
