@@ -10,10 +10,13 @@
 </div>
 
 ### - 👀 I'm ...
-<div align=center> 
+<div> 
   
-🌟 majoring in **Computer Science & Engineering** at Chung-Ang University (2021 ~ )
-  
+&nbsp;🌟 majoring in **Computer Science & Engineering** at Chung-Ang University (2021 ~ ) <br/>
+&nbsp;🐣 **COMP** 36th ➡️ 37th vice-president <br/>
+&nbsp;📗 **University MakeUs Challenge** 3th - Node.js <br/>
+&nbsp;🦁 **LikeLion** 11th - Back-end <br/>
+<br/>
 </div>
   
 ### - 🌱 I’m currently studying ...
