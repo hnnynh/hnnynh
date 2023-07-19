@@ -59,8 +59,6 @@
 
 <img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=for-the-badge&logo=Amazon ECS&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Amazon Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=for-the-badge&logo=Amazon DynamoDB&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Amazon SQS-FF4F8B?style=for-the-badge&logo=Amazon SQS&logoColor=white"></a>
 
 
 </div>
