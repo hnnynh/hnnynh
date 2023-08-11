@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 
 </div>
-
+<!--
 ### - 🌱 I’m going to study ...
 
 <div align=center> 
@@ -60,7 +60,7 @@
 
 <img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=for-the-badge&logo=Amazon ECS&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Amazon Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"></a>
-
+-->
 
 </div>
 <!--
