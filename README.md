@@ -14,12 +14,15 @@
 <div> 
   
 &nbsp;🌟 majoring in **Computer Science & Engineering** at Chung-Ang University (2021 ~ ) <br/>
+
+<!--
 &nbsp;🐣 **COMP** 36th ➡️ 37th vice-president <br/>
 &nbsp;📗 **University MakeUs Challenge** 3th - Node.js <br/>
 &nbsp;🦁 **LikeLion** 11th - Back-end <br/>
 <br/>
+-->
 </div>
-  
+<!--  
 ### - 🌱 I’m currently studying ...
 
 <div align=center> 
@@ -48,7 +51,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 
 </div>
-<!--
+
 ### - 🌱 I’m going to study ...
 
 <div align=center> 
