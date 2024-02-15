@@ -72,8 +72,6 @@
 <br/>
 <div align=center> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnnynh&layout=compact&theme=transparent)
-<br/><br/>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 </div>
