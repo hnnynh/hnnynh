@@ -17,9 +17,9 @@
 
 <div> 
 	
-&nbsp; - **[COMP](https://hnnynh.notion.site/COMP-7827b4f860d84427a5dbdbecdf36be5a?pvs=4)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 36th Member&nbsp; &&nbsp; 37th Vice-President&nbsp; ( 2022.3. ~ 2024.1 )<br/>
-&nbsp; - **CAU LikeLion**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11th Member &nbsp;&&nbsp; 12th Management &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Back-end&nbsp; ( 2023.3 ~ )<br/>
-&nbsp; - **OSSCA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	Open Source Contribution Lead Mentee&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Azure Functions OpenAPI Extensions&nbsp; ( 2023.7 ~ 2023.10 )<br/>
+&nbsp; - **[CAU COMP](https://hnnynh.notion.site/COMP-7827b4f860d84427a5dbdbecdf36be5a?pvs=4)** &nbsp;&nbsp;&nbsp;&nbsp;- Web Development Club &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;36th Member&nbsp; &&nbsp; 37th Vice-President&nbsp; ( 2022.3. ~ 2024.1 )<br/>
+&nbsp; - **CAU LikeLion** &nbsp;- IT Startup Club&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11th Member &nbsp;&&nbsp; 12th Management &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Back-end&nbsp; ( 2023.3 ~ )<br/>
+&nbsp; - **OSSCA** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Open Source Contribution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lead Mentee&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Azure Functions OpenAPI Extensions&nbsp; ( 2023.7 ~ 2023.10 )<br/>
 <br/>
 
 </div>
