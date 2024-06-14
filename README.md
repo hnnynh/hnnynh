@@ -24,7 +24,7 @@
 
 </div>
  
-### - 🌱 What I’m studying 
+### - 🌱 What I’m Interested in
 
 <div align=center> 
   
@@ -36,15 +36,18 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></a>
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"></a>
+
+<img src="https://img.shields.io/badge/aws lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"></a>
+<img src="https://img.shields.io/badge/framework-000000?style=for-the-badge&logo=framework&logoColor=white"></a>
+<img src="https://img.shields.io/badge/cncf-231F20?style=for-the-badge&logo=cncf&logoColor=white"></a>
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></a>
-
+#
 
 </div>
 
@@ -64,6 +67,8 @@
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white"></a>
+
 <img src="https://img.shields.io/badge/Amazon Simple Email Service-DD344C?style=flat-square&logo=amazonsimpleemailservice&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Azure Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white"></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></a>
