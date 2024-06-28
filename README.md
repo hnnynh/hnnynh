@@ -18,8 +18,9 @@
 <div> 
 	
 &nbsp; - **[CAU COMP](https://hnnynh.notion.site/COMP-7827b4f860d84427a5dbdbecdf36be5a?pvs=4)** &nbsp;&nbsp;&nbsp;&nbsp;- Web Development Club &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;36th Member&nbsp; &&nbsp; 37th Vice-President&nbsp; ( 2022.3. ~ 2024.1 )<br/>
-&nbsp; - **CAU LikeLion** &nbsp;- IT Startup Club&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11th Member &nbsp;&&nbsp; 12th Management &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Back-end&nbsp; ( 2023.3 ~ )<br/>
+&nbsp; - **CAU LikeLion** &nbsp;- IT Startup Club&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11th Member &nbsp;&&nbsp; 12th Management &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Back-end&nbsp; ( 2023.3 ~ )<br/>
 &nbsp; - **OSSCA** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Open Source Contribution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lead Mentee&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Azure Functions OpenAPI Extensions&nbsp; ( 2023.7 ~ 2023.10 )<br/>
+&nbsp; - **Cloud Club** &nbsp;&nbsp;&nbsp;&nbsp;- Vendor-Neutral IT Infra &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5th Member ( 2024.3 ~ )<br/>
 <br/>
 
 </div>
@@ -29,6 +30,7 @@
 <div align=center> 
   
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a>
 
@@ -41,14 +43,14 @@
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></a>
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+<img src="https://img.shields.io/badge/AWS lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"></a>
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></a>
+
+
 <img src="https://img.shields.io/badge/cncf-231F20?style=for-the-badge&logo=cncf&logoColor=white"></a>
 <img src="https://img.shields.io/badge/framework-000000?style=for-the-badge&logo=framework&logoColor=white"></a>
 <img src="https://img.shields.io/badge/network-000000?style=for-the-badge&logo=network&logoColor=white"></a>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"></a>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"></a>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></a>
 #
 
 </div>
@@ -58,7 +60,6 @@
 <div align=center> 
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"></a>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
@@ -70,7 +71,6 @@
 <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"></a>
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=amazons3&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white"></a>
-<img src="https://img.shields.io/badge/AWS lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Amazon Simple Email Service-DD344C?style=flat-square&logo=amazonsimpleemailservice&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Azure Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white"></a>
 
