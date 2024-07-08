@@ -59,6 +59,10 @@
 
 <div align=center> 
 
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"></a>
+
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"></a>
@@ -71,6 +75,7 @@
 <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"></a>
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=amazons3&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white"></a>
+<img src="https://img.shields.io/badge/AWS CloudFront-9933CC?style=flat-square&logo=amazoncloudfront&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Amazon Simple Email Service-DD344C?style=flat-square&logo=amazonsimpleemailservice&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Azure Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white"></a>
 
