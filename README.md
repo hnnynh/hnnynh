@@ -26,7 +26,7 @@
 
  
 ### - 🌱 What I’m Interested in
-#### 🌟 interested in Site Reliability Engineering & Cloud Engineering
+#### 🌟 interested in Site Reliability Engineering - Platform Engineering & Cloud Engineering
 <br/>
 
 <div align=center> 
