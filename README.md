@@ -27,7 +27,8 @@
 
  
 ### - 🌱 What I’m Interested in
-#### 🌟 interested in Site Reliability Engineering - Platform Engineering & Cloud Engineering
+🌟 interested in Cloud Infrastructure<br/>
+🙌🏻 believe in the power of Open Source
 <br/>
 
 <div align=center> 
