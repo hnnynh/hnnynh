@@ -48,14 +48,6 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white"> </a>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"></a>
 
-</div>
-<br/>
-
-
-![](./profile-3d-contrib/profile-gitblock.svg)
-</div>
-
-
 <!--
 **hnnynh/hnnynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
