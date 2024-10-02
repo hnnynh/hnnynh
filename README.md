@@ -11,17 +11,14 @@
 
 #### 🌟 majoring in **Computer Science & Engineering** at Chung-Ang University&nbsp; ( 2021.3 ~ ) <br/>
 
-<div> 
-	
-&nbsp; - **Cloud Club** &nbsp;&nbsp;&nbsp;&nbsp;- Vendor-Neutral IT Infra Union&nbsp;&nbsp;&nbsp;&nbsp;5th Member ( 2024.3 ~ )<br/>
-&nbsp; - **OSSCA** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Open Source Contribution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentee &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; OpenStack&nbsp; ( 2024.7 ~ )<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lead Mentee&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Azure Functions OpenAPI Extensions&nbsp; ( 2023.7 ~ 2023.11 )<br/>
-&nbsp; - **CAU LikeLion** &nbsp;- IT Startup Club&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11th Member &nbsp;&&nbsp; 12th Management &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Back-end&nbsp; ( 2023.3 ~ 2024.8 )<br/>
-&nbsp; - **[CAU COMP](https://hnnynh.notion.site/COMP-7827b4f860d84427a5dbdbecdf36be5a?pvs=4)** &nbsp;&nbsp;&nbsp;&nbsp;- Web Dev. Club &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;36th Member&nbsp; &&nbsp; 37th Vice-President&nbsp; ( 2022.3. ~ 2024.1 )<br/>
-&nbsp; - **UMC** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Univ. Dev. Union Club&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2nd Member &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Back-end - Node.js &nbsp; ( 2022.9 ~ 2023.2 )<br/>
+| Club | Desc. | Role | Role Decs. | Period |
+| ------------ | ------------- | ------------- | ------------- | ------------- |
+| **Cloud Club** | Vendor-Neutral IT Infra Union Club | 5th Member | Cloud Study Leader, Member | 2024.3 ~ |
+| **OSSCA** | Open Source Software Contribution Academy | *OpenStack* <br/>- Mentee <br/> --- <br/> *Azure Functions OpenAPI Extensions* <br/>- Lead Mentee| OpenStackSDK Contribution <br/> --- <br/> Test Package Contribution  | 2024.7 ~ 2024.11 <br/> --- <br/> 2023.7 ~ 2023.11 |
+| **CAU LikeLion** | IT Startup Club | *Backend* <br/> 11th Member, 12th Management | Django Project,<br/> OAuth/HTTPS Presentation | 2023.3 ~ 2024.8 |
+| **[CAU COMP](https://hnnynh.notion.site/COMP-7827b4f860d84427a5dbdbecdf36be5a?pvs=4)**  | Web Dev. Club | 36th Member<br/> 37th Vice-President | Web Development Study Management | 2022.3. ~ 2024.1 |
+| **UMC** | Univ. Dev. Union Club | 2nd Back-end - Node.js | Node.js Study, Project | 2022.9 ~ 2023.2 |
 
-
-</div>
 <br/>
 
  
