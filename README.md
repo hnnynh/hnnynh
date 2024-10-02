@@ -13,11 +13,12 @@
 
 | Club | Desc. | Role | Role Decs. | Period |
 | ------------ | ------------- | ------------- | ------------- | ------------- |
-| **Cloud Club** | Vendor-Neutral IT Infra Union Club | 5th Member | Cloud Study Leader, Member | 2024.3 ~ |
-| **OSSCA** | Open Source Software Contribution Academy | *OpenStack* <br/>- Mentee <br/> --- <br/> *Azure Functions OpenAPI Extensions* <br/>- Lead Mentee| OpenStackSDK Contribution <br/> --- <br/> Test Package Contribution  | 2024.7 ~ 2024.11 <br/> --- <br/> 2023.7 ~ 2023.11 |
-| **CAU LikeLion** | IT Startup Club | *Backend* <br/> 11th Member, 12th Management | Django Project,<br/> OAuth/HTTPS Presentation | 2023.3 ~ 2024.8 |
+| **Cloud Club** | Vendor-Neutral IT Infra Union | 5th Member | Cloud Study Leader, Member | 2024.3 ~ |
+| **OSSCA** | Open Source SW <br/> Contribution Academy | *OpenStack* <br/>- Mentee <br/> | OpenStackSDK Contribution <br/> | 2024.7 ~ 2024.11 <br/> |
+| | | *Azure Functions OpenAPI Extensions* <br/>- Lead Mentee |Test Package Contribution | 2023.7 ~ 2023.11 |
+| **CAU LikeLion** | IT Startup Club | *Backend* <br/> 11th Member, 12th Management | Django Study/Project,<br/> OAuth/HTTPS Presentation | 2023.3 ~ 2024.8 |
 | **[CAU COMP](https://hnnynh.notion.site/COMP-7827b4f860d84427a5dbdbecdf36be5a?pvs=4)**  | Web Dev. Club | 36th Member<br/> 37th Vice-President | Web Development Study Management | 2022.3. ~ 2024.1 |
-| **UMC** | Univ. Dev. Union Club | 2nd Back-end - Node.js | Node.js Study, Project | 2022.9 ~ 2023.2 |
+| **UMC** | Univ. Dev. Union Club | 2nd Back-end - Node.js | Node.js Study/Project | 2022.9 ~ 2023.2 |
 
 <br/>
 
