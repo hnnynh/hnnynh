@@ -7,7 +7,7 @@
 
 </div>
 
-### - 👀 Who am I
+### 👀 Who am I
 
 #### 🌟 majoring in **Computer Science & Engineering** at Chung-Ang University&nbsp; ( 2021.3 ~ ) <br/>
 
@@ -23,8 +23,10 @@
 <br/>
 
  
-### - 🌱 What I’m Interested in
-🌟 Cloud Infrastructure & Site Reliability Engineering<br/>
+### 🌱 What I’m Interested in
+☁️ Cloud Infrastructure<br/>
+🌟 Site Reliability Engineering<br/>
+🚥 Platform Engineering<br/><br/>
 🙌🏻 believe in the power of Open Source
 <br/>
 
