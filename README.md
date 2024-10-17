@@ -7,9 +7,9 @@
 
 </div>
 
-### 👀 Who am I
+## 👀 Who am I
 
-#### 🌟 majoring in **Computer Science & Engineering** at Chung-Ang University&nbsp; ( 2021.3 ~ ) <br/>
+### 🌟 majoring in **Computer Science & Engineering** at Chung-Ang University&nbsp; ( 2021.3 ~ ) <br/>
 
 | Club | Desc. | Role | Role Decs. | Period |
 | ------------ | ------------- | ------------- | ------------- | ------------- |
@@ -21,9 +21,8 @@
 | **UMC** | Univ. Dev. Union Club | 2nd Back-end - Node.js | Node.js Study/Project | 2022.9 ~ 2023.2 |
 
 <br/>
-
  
-### 🌱 What I’m Interested in
+## 🌱 Interests
 ☁️ Cloud Infrastructure<br/>
 🌟 Site Reliability Engineering<br/>
 🚥 Platform Engineering<br/><br/>
@@ -31,7 +30,6 @@
 <br/>
 
 <div align=center> 
-
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></a>
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
@@ -45,8 +43,16 @@
 <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=Openstack&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> </a>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white"> </a>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"></a>
+</div>
+
+<br/>
+
+## 🏆 Certifications
+| Certifications | Expiration period | 
+| ------------ | ------------- |
+| 🌐 Certified Kubernetes Administrator (CKA) | 2024.10 ~ 2026.10 |
+
 
 <!--
 **hnnynh/hnnynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
