@@ -11,11 +11,11 @@
 
 ### 🌟 majoring in **Computer Science & Engineering** at Chung-Ang University&nbsp; ( 2021.3 ~ ) <br/>
 
-| Club | Desc. | Role | Role Decs. | Period |
+| Club | Club Desc. | Role | Role Desc. | Period |
 | ------------ | ------------- | ------------- | ------------- | ------------- |
 | **Cloud Club** | Vendor-Neutral IT Infra Union | 5th Member | Cloud Study Leader, Member | 2024.3 ~ |
 | **OSSCA** | Open Source SW <br/> Contribution Academy | *OpenStack* <br/>- Mentee <br/> | OpenStackSDK Contribution <br/> | 2024.7 ~ 2024.11 <br/> |
-| | | *Azure Functions OpenAPI Extensions* <br/>- Lead Mentee |Test Package Contribution | 2023.7 ~ 2023.11 |
+| | | *Azure Functions OpenAPI Extension* <br/>- Lead Mentee | Test Package Contribution | 2023.7 ~ 2023.11 |
 | **CAU <br/>LikeLion** | IT Startup Club | *Backend* <br/> 11th Member, 12th Management | Django Study/Project,<br/> OAuth/HTTPS Presentation | 2023.3 ~ 2024.8 |
 | **[CAU COMP](https://hnnynh.notion.site/COMP-7827b4f860d84427a5dbdbecdf36be5a?pvs=4)**  | Web Dev. Club | 36th Member<br/> 37th Vice-President | Web Development Study Management | 2022.3. ~ 2024.1 |
 | **UMC** | Univ. Dev. Union Club | 2nd Back-end - Node.js | Node.js Study/Project | 2022.9 ~ 2023.2 |
@@ -52,7 +52,16 @@
 | Certifications | Expiration period | 
 | ------------ | ------------- |
 | 🌐 Certified Kubernetes Administrator (CKA) | 2024.10 ~ 2026.10 |
+| 🌐 Certified Kubernetes Application Developer (CKAD) | 2024.10 ~ 2026.10 |
 
+<br/>
+
+## 🗃️ Open Source Contribution
+| Open Source | Contribution | 
+| ------------ | ------------- | 
+| 🖍️ OpenstackSDK | [Provides Designate Service Status](https://review.opendev.org/c/openstack/openstacksdk/+/927673) | 
+| ⚡️ Azure Function OpenAPI Extension | [Replace Test Package](https://github.com/Azure/azure-functions-openapi-extension/pull/606) |
+| 💻 90DayOfDevops | [Docs Contribution](https://github.com/MichaelCade/90DaysOfDevOps/pull/509) | 
 
 <!--
 **hnnynh/hnnynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
