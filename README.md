@@ -56,7 +56,7 @@
 
 ## 🏆 Certifications
 | Certifications | Expiration period | Badge |
-| ------------ | ------------- |
+| ------------ | ------------- | ------------- |
 | 🌐 Certified Kubernetes Administrator (CKA) | 2024.10 ~ 2026.10 | [Credly](https://www.credly.com/badges/bf7a47cb-b0e3-42c1-8de5-58d842c9414c/public_url) |
 | 🌐 Certified Kubernetes Application Developer (CKAD) | 2024.10 ~ 2026.10 | [Credly](https://www.credly.com/badges/76ae30ef-df19-47d7-9a47-d8461c70103b/public_url) |
 
