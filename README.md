@@ -33,7 +33,8 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"></a>
 </div>
 
-## 📚 What I do/did
+
+### 📚 What I do/did
 
 | Club | Club Desc. | Role | Role Desc. | Period |
 | ------------ | ------------- | ------------- | ------------- | ------------- |
@@ -46,7 +47,7 @@
 
 <br/>
  
-## 🍀 Scholarship
+### 🍀 Scholarship
 | Scholarship | When | Where |
 | ------------ | ------------- | ------------- |
 | Academic Excellence | Fall 2021, Fall 2022 | CAU |
@@ -54,7 +55,7 @@
 
 <br/>
 
-## 🏆 Certifications
+### 🏆 Certifications
 | Certifications | Expiration period | Badge |
 | ------------ | ------------- | ------------- |
 | 🌐 Certified Kubernetes Administrator (CKA) | 2024.10 ~ 2026.10 | [Credly](https://www.credly.com/badges/bf7a47cb-b0e3-42c1-8de5-58d842c9414c/public_url) |
@@ -62,7 +63,7 @@
 
 <br/>
 
-## 🗃️ Open Source Contributions
+### 🗃️ Open Source Contributions
 🙌🏻 believe in the power of Open Source
 | Open Source | Contribution | 
 | ------------ | ------------- | 
