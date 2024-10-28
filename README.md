@@ -67,7 +67,7 @@
 | Open Source | Contribution | 
 | ------------ | ------------- | 
 | 🖍️ OpenstackSDK | [Provides Designate System Service Status](https://review.opendev.org/c/openstack/openstacksdk/+/927673) | 
-| ⚡️ Azure Function OpenAPI Extension | [Replace Test Package](https://github.com/Azure/azure-functions-openapi-extension/pull/606) |
+| ⚡️ Azure Functions OpenAPI Extension | [Replace Test Package](https://github.com/Azure/azure-functions-openapi-extension/pull/606) |
 | 💻 90DayOfDevops | [Docs Contribution](https://github.com/MichaelCade/90DaysOfDevOps/pull/509) | 
 
 <!--
