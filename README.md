@@ -51,7 +51,7 @@
 | Scholarship | When | Where |
 | ------------ | ------------- | ------------- |
 | Academic Excellence | Fall 2021, Fall 2022 | CAU |
-| Academic Empowerment at CAU | Fall 2023 | CAU |
+| Academic Empowerment | Fall 2023 | CAU |
 
 <br/>
 
