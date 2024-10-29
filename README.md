@@ -8,7 +8,7 @@
 </div>
 
 ## 👀 Who am I
-📛 **Yoonho Hann**
+📛 **Yoonho Hann** <br/>
 🌟 majoring in **Computer Science & Engineering** at Chung-Ang University&nbsp; ( 2021.3 ~ )  <br/>
 
 
