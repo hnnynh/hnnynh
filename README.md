@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 <a href="mailto:hnnynh125@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hnnynh125@gmail.com"/></a>
+<a href="www.linkedin.com/in/yoonho-hann" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=Velog&logoColor=white"></a>
 <a href="https://velog.io/@hnnynh" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 
 </div>
@@ -22,7 +23,6 @@
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"></a>
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"></a>
 <img src="https://img.shields.io/badge/network-000000?style=for-the-badge&logo=network&logoColor=white"></a>
@@ -31,6 +31,8 @@
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> </a>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"></a>
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></a>
+
 </div>
 
 
@@ -50,8 +52,8 @@
 ### 🍀 Scholarship
 | Scholarship | When | Where |
 | ------------ | ------------- | ------------- |
-| Academic Excellence | Fall 2021, Fall 2022 | CAU |
-| Academic Empowerment | Fall 2023 | CAU |
+| Academic Excellence | Fall 2021, Fall 2022 | Chung-Ang University |
+| Academic Empowerment | Fall 2023 | Chung-Ang University |
 
 <br/>
 
