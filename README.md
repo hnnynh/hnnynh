@@ -57,13 +57,16 @@
 
 <br/>
 
+### 🏆 Prizes
+| Contest | Prize | When | Where |
+| ------------ | ------------- | ------------- | ------------- |
+| The 8th Open Cloud Platform (K-PaaS) based Service<br/>Development·Idea Contest | Soongsil Univ. Chancellor's Award (Bronze) | 2024 | MSIT<br/>(과학기술정보통신부) |
+<br/>
 ### 🏆 Certifications
 <p align="center">
 <a href="https://www.credly.com/badges/bf7a47cb-b0e3-42c1-8de5-58d842c9414c/public_url"><img width=200 src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/logo_cka_whitetext-300x293.png"/></a>
 <a href="https://www.credly.com/badges/76ae30ef-df19-47d7-9a47-d8461c70103b/public_url"><img width=200 src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/kubernetes-ckad-color-300x294.png"/></a>
 <a href="https://www.credly.com/badges/a9ccc004-7b5c-495b-8552-e0b9c8420f35/public_url"><img width=200 src="https://training.linuxfoundation.org/wp-content/uploads/2021/09/KCNA-Logo-300x300.png"/></a>
-
- 
 </p>
 
 <br/>
@@ -75,6 +78,9 @@
 | 🖍️ OpenstackSDK | [Provides Designate System Service Status](https://review.opendev.org/c/openstack/openstacksdk/+/927673) | 
 | ⚡️ Azure Functions OpenAPI Extension | [Replace Test Package](https://github.com/Azure/azure-functions-openapi-extension/pull/606) |
 | 💻 90DayOfDevops | [Docs Contribution](https://github.com/MichaelCade/90DaysOfDevOps/pull/509) | 
+
+
+
 
 <!--
 **hnnynh/hnnynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
