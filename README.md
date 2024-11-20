@@ -62,6 +62,7 @@
 | ------------ | ------------- | ------------- | ------------- |
 | The 8th Open Cloud Platform (K-PaaS) based Service<br/>Development·Idea Contest | Soongsil Univ. Chancellor's Award (Bronze) | 2024 | MSIT<br/>(과학기술정보통신부) |
 <br/>
+
 ### 🏆 Certifications
 <p align="center">
 <a href="https://www.credly.com/badges/bf7a47cb-b0e3-42c1-8de5-58d842c9414c/public_url"><img width=200 src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/logo_cka_whitetext-300x293.png"/></a>
