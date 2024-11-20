@@ -58,10 +58,13 @@
 <br/>
 
 ### 🏆 Certifications
-| Certifications | Expiration period | Badge |
-| ------------ | ------------- | ------------- |
-| 🌐 Certified Kubernetes Administrator (CKA) | 2024.10 ~ 2026.10 | [Credly](https://www.credly.com/badges/bf7a47cb-b0e3-42c1-8de5-58d842c9414c/public_url) |
-| 🌐 Certified Kubernetes Application Developer (CKAD) | 2024.10 ~ 2026.10 | [Credly](https://www.credly.com/badges/76ae30ef-df19-47d7-9a47-d8461c70103b/public_url) |
+<p align="center">
+<a href="https://www.credly.com/badges/bf7a47cb-b0e3-42c1-8de5-58d842c9414c/public_url"><img width=200 src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/logo_cka_whitetext-300x293.png"/></a>
+<a href="https://www.credly.com/badges/76ae30ef-df19-47d7-9a47-d8461c70103b/public_url"><img width=200 src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/kubernetes-ckad-color-300x294.png"/></a>
+<a href="https://www.credly.com/badges/a9ccc004-7b5c-495b-8552-e0b9c8420f35/public_url"><img width=200 src="https://training.linuxfoundation.org/wp-content/uploads/2021/09/KCNA-Logo-300x300.png"/></a>
+
+ 
+</p>
 
 <br/>
 
