@@ -60,7 +60,7 @@
 ### 🏆 Prizes
 | Contest | Prize | When | Where |
 | ------------ | ------------- | ------------- | ------------- |
-| The 8th Open Cloud Platform (K-PaaS) based Service Development·Idea Contest | Soongsil Univ. Chancellor's Award (Bronze) | 2024 | MSIT<br/>(과학기술정보통신부) |
+| The 8th Open Cloud Platform (K-PaaS) based Service Development·Idea Contest | Soongsil Univ. Chancellor's Award (Bronze🥉) | 2024.11 | MSIT<br/>(과학기술정보통신부) |
 <br/>
 
 ### 🏆 Certifications
