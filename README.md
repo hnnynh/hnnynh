@@ -48,6 +48,11 @@
 | **UMC** | Univ. Dev. Union Club | 2nd Back-end - Node.js | Node.js Study/Project | 2022.9 ~ 2023.2 |
 
 <br/>
+
+| Project | Desc.| Role Desc. | Period |
+| ------------ | ------------- | ------------- | ------------- | 
+| | | | |
+<br/>
  
 ### 🍀 Scholarship
 | Scholarship | When | Where |
@@ -78,7 +83,7 @@
 | ------------ | ------------- | 
 | 🖍️ OpenstackSDK | [Provides Designate System Service Status](https://review.opendev.org/c/openstack/openstacksdk/+/927673) | 
 | ⚡️ Azure Functions OpenAPI Extension | [Replace Test Package](https://github.com/Azure/azure-functions-openapi-extension/pull/606) |
-| 💻 90DayOfDevops | [Docs Contribution](https://github.com/MichaelCade/90DaysOfDevOps/pull/509) | 
+| 💻 90DaysOfDevops | [Docs Contribution](https://github.com/MichaelCade/90DaysOfDevOps/pull/509) | 
 
 
 
