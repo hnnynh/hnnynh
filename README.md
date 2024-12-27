@@ -41,7 +41,7 @@
 | Club | Club Desc. | Role | Role Desc. | Period |
 | ------------ | ------------- | ------------- | ------------- | ------------- |
 | **Cloud Club** | Vendor-Neutral IT Infra Union | 5th Member | Cloud Study Leader, Member | 2024.03 ~ |
-| **Kakao Tech Bootcamp** | SW Bootcamp | 1st Cloud Member | Cloud Native Application Operation w/EKS | 2024.07 ~ 2024.12 |
+| **Kakao Tech Bootcamp** | SW Bootcamp | 1st Cloud Member | Cloud Native Application Operation w/EKS | 2024.07 ~ 2024.12 |
 | **OSSCA** | Open Source SW <br/> Contribution Academy | *OpenStack* <br/>- Mentee <br/> | OpenStackSDK Contribution <br/> | 2024.07 ~ 2024.11 <br/> |
 | | | *Azure Functions*<br/>*OpenAPI Extension* <br/>- Lead Mentee | Test Package <br/>Contribution | 2023.07 ~ 2023.11 |
 | **CAU <br/>LikeLion** | IT Startup Club | *Backend* <br/> 11th Member, 12th Management | Django Study/Project,<br/> OAuth/HTTPS Presentation | 2023.03 ~ 2024.08 |
