@@ -50,10 +50,6 @@
 
 <br/>
 
-| Project | Desc.| Role Desc. | Period |
-| ------------ | ------------- | ------------- | ------------- | 
-| | | | |
-<br/>
  
 ### 🍀 Scholarship
 | Scholarship | When | Where |
