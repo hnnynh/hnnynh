@@ -71,8 +71,10 @@
 <a href="https://www.credly.com/badges/bf7a47cb-b0e3-42c1-8de5-58d842c9414c/public_url"><img width=200 src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/logo_cka_whitetext-300x293.png"/></a>
 <a href="https://www.credly.com/badges/76ae30ef-df19-47d7-9a47-d8461c70103b/public_url"><img width=200 src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/kubernetes-ckad-color-300x294.png"/></a>
 <a href="https://www.credly.com/badges/a9ccc004-7b5c-495b-8552-e0b9c8420f35/public_url"><img width=200 src="https://training.linuxfoundation.org/wp-content/uploads/2021/09/KCNA-Logo-300x300.png"/></a>
- <a href="https://www.credly.com/badges/3ecf1ae0-97ba-4d22-b95f-e71907de2ef9/public_url"><img width=200 src="https://github.com/user-attachments/assets/80d0c568-c529-4c56-88af-63f58dad2fd0"/></a>
-</p>
+<a href="https://www.credly.com/badges/3ecf1ae0-97ba-4d22-b95f-e71907de2ef9/public_url"><img width=200 src="https://github.com/user-attachments/assets/80d0c568-c529-4c56-88af-63f58dad2fd0"/></a>
+<a href="https://www.credly.com/badges/a39fb6a4-dd81-4813-93fb-17556e50a24d/public_url"><img width=200 src="https://training.linuxfoundation.org/wp-content/uploads/2023/01/kcsa_badge_new-300x300.png"/></a>
+</p>![image]()
+
 
 <br/>
 
