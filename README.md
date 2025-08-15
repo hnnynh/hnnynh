@@ -40,7 +40,7 @@
 
 | Company | Job Role | Desc. | Period |
 | ------------ | ------------- | ------------- | ------------- | 
-| | | | |
+| [daangn](https://www.daangn.com/)([karrot](https://www.karrotmarket.com/)) | Site Reliability Engineer | | 2025.02 ~|
 
 ### 📚 What I do/did
 
