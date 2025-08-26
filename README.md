@@ -10,11 +10,13 @@
 
 ## 👀 Who am I
 📛 **Yoonho Hann** <br/>
-🌟 majoring in **Computer Science & Engineering** at Chung-Ang University&nbsp; ( 2021.3 ~ )  <br/>
+👩🏻‍🚀 Kubestronaut <br/>
+🥕 Site Reliability Engineer @Karrot <br/>
+🌟 Computer Science major @Chung-Ang Univ.&nbsp; ( 2021.3 ~ )  <br/>
 
 
 ## 🌱 Interests
-☁️ Cloud Infrastructure & Engineering<br/>
+☁️ Cloud Native & Infrastructure<br/>
 🚥 Site Reliability Engineering<br/>
 🚉 Platform Engineering<br/>
 
@@ -22,17 +24,10 @@
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></a>
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"></a>
 <img src="https://img.shields.io/badge/network-000000?style=for-the-badge&logo=network&logoColor=white"></a>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"></a>
-<img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=Openstack&logoColor=white"></a>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> </a>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"></a>
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></a>
 
 </div>
 
@@ -40,7 +35,7 @@
 
 | Company | Job Role | Desc. | Period |
 | ------------ | ------------- | ------------- | ------------- | 
-| [daangn](https://www.daangn.com/)([karrot](https://www.karrotmarket.com/)) | Site Reliability Engineer | | 2025.02 ~|
+| [daangn](https://www.daangn.com/)([karrot](https://www.karrotmarket.com/)) | Site Reliability Engineer | - Development of an Internal CI/CD platform <br/>- Operation of Kubernetes & Istio environments | 2025.02 ~|
 
 ### 📚 What I do/did
 
