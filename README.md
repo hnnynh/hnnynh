@@ -11,8 +11,8 @@
 ## 👀 Who am I
 📛 **Yoonho Hann** <br/>
 👩🏻‍🚀 Kubestronaut <br/>
-🥕 Site Reliability Engineer @Karrot <br/>
-🌟 Computer Science major @Chung-Ang Univ.&nbsp; ( 2021.3 ~ )  <br/>
+🥕 Site Reliability Engineer @Karrot&nbsp; ( 2025.02 ~ ) <br/>
+🌟 Computer Science major @Chung-Ang Univ.&nbsp; ( 2021.03 ~ )  <br/>
 
 
 ## 🌱 Interests
@@ -24,10 +24,12 @@
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></a>
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+<img src="https://img.shields.io/badge/istio-466BB0?style=for-the-badge&logo=istio&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"></a>
 <img src="https://img.shields.io/badge/network-000000?style=for-the-badge&logo=network&logoColor=white"></a>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"></a>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </div>
 
@@ -35,23 +37,14 @@
 
 | Company | Job Role | Desc. | Period |
 | ------------ | ------------- | ------------- | ------------- | 
-| [daangn](https://www.daangn.com/)([karrot](https://www.karrotmarket.com/)) | Site Reliability Engineer | - Development of an Internal CI/CD platform <br/>- Operation of Kubernetes & Istio environments | 2025.02 ~|
+| [Daangn Market Inc.](https://www.daangn.com/)([Karrot](https://www.karrotmarket.com/)) | Site Reliability Engineer | - Development of an Internal CI/CD platform <br/>- Operation of Kubernetes & Istio environments | 2025.02 ~ |
 
-### 📚 What I do/did
+### 🏆 Certifications
+<p align="center">
+<a href="https://www.credly.com/badges/128ddf12-9e64-489a-8cd7-e8436c30e55f/public_url"><img width=200 src="https://images.credly.com/size/680x680/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png"/></a>
+<a href="https://www.credly.com/badges/3ecf1ae0-97ba-4d22-b95f-e71907de2ef9/public_url"><img width=200 src="https://github.com/user-attachments/assets/80d0c568-c529-4c56-88af-63f58dad2fd0"/></a>
+</p>
 
-| Club | Club Desc. | Role | Role Desc. | Period |
-| ------------ | ------------- | ------------- | ------------- | ------------- |
-| **Cloud Club** | Vendor-Neutral IT Infra Union | 5th Member | Cloud Study Leader, Member | 2024.03 ~ |
-| **Kakao Tech Bootcamp** | SW Bootcamp | 1st Cloud Member | Cloud Native Application Operation w/EKS | 2024.07 ~ 2024.12 |
-| **OSSCA** | Open Source SW <br/> Contribution Academy | *OpenStack* <br/>- Mentee <br/> | OpenStackSDK Contribution <br/> | 2024.07 ~ 2024.11 <br/> |
-| | | *Azure Functions*<br/>*OpenAPI Extension* <br/>- Lead Mentee | Test Package <br/>Contribution | 2023.07 ~ 2023.11 |
-| **CAU <br/>LikeLion** | IT Startup Club | *Backend* <br/> 11th Member, 12th Management | Django Study/Project,<br/> OAuth/HTTPS Presentation | 2023.03 ~ 2024.08 |
-| **[CAU COMP](https://hnnynh.notion.site/COMP-7827b4f860d84427a5dbdbecdf36be5a?pvs=4)**  | Web Dev. Club | 36th Member<br/> 37th Vice-President | Study Management | 2022.03 ~ 2024.01 |
-| **UMC** | Univ. Dev. Union Club | 2nd Back-end - Node.js | Node.js Study/Project | 2022.09 ~ 2023.02 |
-
-<br/>
-
- 
 ### 🍀 Scholarship
 | Scholarship | When | Where |
 | ------------ | ------------- | ------------- |
@@ -66,18 +59,6 @@
 | The 8th Open Cloud Platform (K-PaaS) based Service Development·Idea Contest | Soongsil Univ. Chancellor's Award (Bronze🥉) | 2024.11 | MSIT<br/>(과학기술정보통신부) |
 <br/>
 
-### 🏆 Certifications
-<p align="center">
-<a href="https://www.credly.com/badges/bf7a47cb-b0e3-42c1-8de5-58d842c9414c/public_url"><img width=200 src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/logo_cka_whitetext-300x293.png"/></a>
-<a href="https://www.credly.com/badges/76ae30ef-df19-47d7-9a47-d8461c70103b/public_url"><img width=200 src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/kubernetes-ckad-color-300x294.png"/></a>
-<a href="https://www.credly.com/badges/a9ccc004-7b5c-495b-8552-e0b9c8420f35/public_url"><img width=200 src="https://training.linuxfoundation.org/wp-content/uploads/2021/09/KCNA-Logo-300x300.png"/></a>
-<a href="https://www.credly.com/badges/3ecf1ae0-97ba-4d22-b95f-e71907de2ef9/public_url"><img width=200 src="https://github.com/user-attachments/assets/80d0c568-c529-4c56-88af-63f58dad2fd0"/></a>
-<a href="https://www.credly.com/badges/a39fb6a4-dd81-4813-93fb-17556e50a24d/public_url"><img width=200 src="https://training.linuxfoundation.org/wp-content/uploads/2023/01/kcsa_badge_new-300x300.png"/></a>
-</p>![image]()
-
-
-<br/>
-
 ### 🗃️ Open Source Contributions
 🙌🏻 believe in the power of Open Source
 | Open Source | Contribution | 
@@ -87,20 +68,15 @@
 | 💻 90DaysOfDevops | [Docs Contribution](https://github.com/MichaelCade/90DaysOfDevOps/pull/509) | 
 
 
+### 📚 What I do/did
 
+| Presentation | Date | etc |
+| ------------ | ------------- | ------------- |
+| Argo와 함께하는 도구 선정 이야기 (The Story of Tech Tool Selection with Argo) | 2025.05.24. | [Youtube](https://youtu.be/RWZ-w-pYbwo?si=F7LU1U886wCjv3MW) |
 
-<!--
-**hnnynh/hnnynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-### - :eyes: I'm
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Club | Club Desc. | Role | Role Desc. | Period |
+| ------------ | ------------- | ------------- | ------------- | ------------- |
+| **Cloud Club** | Vendor-Neutral IT Infra Union | 5th Member | Cloud Study Leader, Member | 2024.03 ~ |
+| **OSSCA** | Open Source SW <br/> Contribution Academy | *OpenStack* <br/>- Mentee <br/> | OpenStackSDK Contribution <br/> | 2024.07 ~ 2024.11 <br/> |
+| | | *Azure Functions*<br/>*OpenAPI Extension* <br/>- Lead Mentee | Test Package <br/>Contribution | 2023.07 ~ 2023.11 |
+| **[CAU COMP](https://hnnynh.notion.site/COMP-7827b4f860d84427a5dbdbecdf36be5a?pvs=4)**  | Web Dev. Club | 36th Member<br/> 37th Vice-President | Study Management | 2022.03 ~ 2024.01 |
